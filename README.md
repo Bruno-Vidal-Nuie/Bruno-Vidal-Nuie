@@ -7,11 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Vidal-Nuie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruno-Vidal-Nuie&bg_color=304041&color=62d1d2&line=62d1d2&point=d3c5c5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bruno-Vidal-Nuie&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -44,7 +45,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruno-Vidal-Nuie}/count.svg" /></p> 
 <br></div>
   
 
